@@ -2,7 +2,7 @@
 
 I love working with children. After I started collaborating on building one of my own, I decided to build more things.
 
-Teacher to fullstack developer, via father.
+Teacher to father to fullstack developer.
 
 ## Projects
 
