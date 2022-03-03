@@ -1,6 +1,6 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I love working with children. After I started collaborating on building one of my own, I decided to build more things. Teacher to fullstack developer.
 
 ## Projects
 
