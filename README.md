@@ -1,6 +1,6 @@
 ## Joseph Newman
 
-I love working with children. After I started collaborating on building one of my own, I decided to build more things.
+I love working with children. After I started collaborating one of my own, I decided to build more things.
 
 Teacher to father to fullstack developer.
 
