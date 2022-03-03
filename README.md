@@ -57,7 +57,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2022 to June 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -66,24 +66,43 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+#### Teach in Redbridge (2014 to 2015)
 
-That in some arguable way make you a better software developer or well-rounded person
+- PGCE - An education post-graduate course
+- Learning lots of competing and inter-connected theories of teaching and learning
+
+#### Nottingham University (2014 to 2015)
+
+- PGCEi - An education post-graduate course, with a distance-learning model
+- Acing a university post-graduate year, whilst working full-time (and then inexplicably deciding to also get a part-time job) taught me that the distance learning model works for me
+- I went to Kuala Lumpur, but not Nottingham
+
+#### Stanton School (September 2012)
+
+- CELTA - Teaching English as a Foreign Language
+- I learnt to recognise the challenges and perks of learning new languages
+- I already knew how the grammar worked, but learning the technical terms made it much easier to explain how the grammar worked
+- My certificate says 'Cambridge University' on it
+
+#### Loughborough University (2007 to 2010)
+
+- Chemistry with Sport Science BSc Hons
+- My university experience taught me how to be an adult
+- I've kept a passion for sports. I'm fascinated by the sciences, and chemistry certainly helped me develop my skills in testing and analysis
+- I helped raise 1000s of pounds for charity on Rag Raids, and discovered a love of the potato dog - Google it
+
+
 
 ## Hobbies
 
-Climbing - Particularly boulders made of plastic
+**Climbing** - Particularly boulders made of plastic
 
-Fitness - Cycling, swimming, rowing, football when I can get it. Children also make great, progressive, albeit slighly-fragile weights
+**Fitness** - Cycling, swimming, rowing, football when I can get it. Children also make great, progressive, albeit slighly-fragile weights
 
-Travel - International when that is allowed. I also enjoy a good walk
+**Travel** - International, when allowed. I also enjoy a good walk
 
-Food - Fried and/or spicy usually preferable
+**Food** - Fried and/or spicy usually preferable
 
-Puzzles - Sudoku ++
+**Puzzles** - Sudoku ++
