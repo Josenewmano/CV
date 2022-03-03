@@ -4,6 +4,8 @@ I love working with children. After I started collaborating one of my own, I dec
 
 Teacher to father to fullstack developer.
 
+So far I've been doing Ruby and JavaScript. I want to do even more.
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -76,4 +78,12 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Climbing - Particularly boulders made of plastic
+
+Fitness - Cycling, swimming, rowing, football when I can get it. Children also make great, progressive, albeit slighly-fragile weights
+
+Travel - International when that is allowed. I also enjoy a good walk
+
+Food - Fried and/or spicy usually preferable
+
+Puzzles - Sudoku ++
