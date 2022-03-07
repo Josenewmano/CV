@@ -58,11 +58,12 @@ From my lifelong side hustle as a geographical/ historical/ cultural research ne
 
 Throughout my professional career I've considered the children, their families, and my colleagues, to leverage the best possible results.
 
-Regardless of their age, it takes some effort to fully understand a child, and this is a ceaseless effort, as children change constantly: as they grow; depending on the context; and as their moods change. This becomes all the more challenging when you consider:
-            - that classes in some pf my roles in Bangkok were anywhere up to 40 children
-            - that families (especially highly-professional international ones) have myriad different expectations
-            - that interactions between the children, and the classroom team, could be happening in several possible unfamiliar languages
-            - that senior members of staff and outside authorities like OFSTED have various, volatile expectations
+Regardless of their age, it takes some effort to fully understand a child, and this is a ceaseless effort, as children change constantly: as they grow; depending on the context; and as their moods change. This becomes all the more challenging when you consider that:
+
+- classes in some of my roles in Bangkok were anywhere up to 40 children
+- families (especially highly-professional international ones) have myriad different expectations
+- interactions between the children, and the classroom team, could be happening in several possible unfamiliar languages
+- senior members of staff and outside authorities like OFSTED have various, volatile expectations
                    
 In each new, educational setting, and with each new class, I've used my empathy, intuition, inter-personal skills and previous experience to learn about and resolve the changing requirements of the role, and satisfy the wants and needs of all of the members of the school community.
 
