@@ -74,11 +74,6 @@ As a member of the teaching profession, I had the pleasure of guiding the childr
 
 Whether it be walking into an unfamiliar room to teach unknown children, marshalling experienced senior staff, or even (more topically) having extra children and staff assigned to your care with little preparation time, I've had numerous opportunities to develop my ability to lead under pressure. At Nightingale, whilst completing my NQT year, I had the added challenges of a fluid year group team, due to changing need across the school, and a mentoring role for a less-experienced teacher in the year group team, yet the head of year trusted me with extra responsibilites such as leading the lockdown online offering, making key decisions on the ongoing interpretation of the curriculum offering, and delegating to and monitoring the other members of the year group team. Whilst I am confident conducting leadership duties, I am still able to do so with compassion; on a recent visit back to First Steps I was treated to quite a few vigorous hugs from support staff, despite the expectations of social distancing.
 
-#### Duty
-
-- Experience
-- Achievements
-- Evidence (STAR)
 
 #### This Skill
 
