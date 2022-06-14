@@ -4,7 +4,7 @@ I love working with children. After I started collaborating one of my own, I dec
 
 Teacher to father to fullstack developer.
 
-So far I've been working on stacks based on Ruby and JavaScript. I want to learn even more.
+So far I've been learning by working on stacks based on Ruby and JavaScript. I want to learn even more.
 
 ## Projects
 
