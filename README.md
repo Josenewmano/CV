@@ -4,14 +4,19 @@ I love working with children. After I started collaborating one of my own, I dec
 
 Teacher to father to fullstack developer.
 
-So far I've been doing Ruby and JavaScript. I want to do even more.
+So far I've been working on stacks based on Ruby and JavaScript. I want to learn even more.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg)** [(Live site here)](https://acebook-zark-muckerberg.herokuapp.com/)| A tongue-in-cheek clone of Facebook | Node, Express, Handlebars, Jest, MongoDB etc. |
+| **[Makers BNB](https://github.com/R552-beep/Makers-BnB)** | An early group project, cloning Airbnb | Ruby, PostgreSQL, ERB, Rspec, Capybara etc.|
+| **[Till](https://github.com/Josenewmano/till_tech_test)** | A till app for tech-phobe baristas | Node, Jest|
+| **[Chitter](https://github.com/Josenewmano/chitter-challenge)** | A clone of Twitter | Ruby, Rspec, ERB|
+| **[News Summary](https://github.com/Josenewmano/chitter-challenge)** | A news headlines page, using the Guardian News API | Node, CSS, HTML, Jest Fetch Mock, Jest|
+| **[Blackjack](https://github.com/Josenewmano/multiplayer_blackjack)** | A multiplayer, command line blackjack game - the first project I got really excited about| Ruby|
+
 
 ## Work Experience
 
@@ -33,20 +38,8 @@ _Social Media Manager_
 - Developed an understanding of working life in the startup/ tech ecosystem, through my own personal experience, from the offerings from employers, and from the point of view of prospective employees
 - Contributed to the founder's successful exit
 
+
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
 
 #### Deciphering
 
@@ -67,28 +60,11 @@ Regardless of their age, it takes some effort to fully understand a child, and t
                    
 In each new, educational setting, and with each new class, I've used my empathy, intuition, inter-personal skills and previous experience to learn about and resolve the changing requirements of the role, and satisfy the wants and needs of all of the members of the school community.
 
-
 #### Directing
 
 As a member of the teaching profession, I had the pleasure of guiding the children under my care to become more complete versions of themselves.
 
 Whether it be walking into an unfamiliar room to teach unknown children, marshalling experienced senior staff, or even (more topically) having extra children and staff assigned to your care with little preparation time, I've had numerous opportunities to develop my ability to lead under pressure. At Nightingale, whilst completing my NQT year, I had the added challenges of a fluid year group team, due to changing need across the school, and a mentoring role for a less-experienced teacher in the year group team, yet the head of year trusted me with extra responsibilites such as leading the lockdown online offering, making key decisions on the ongoing interpretation of the curriculum offering, and delegating to and monitoring the other members of the year group team. Whilst I am confident conducting leadership duties, I am still able to do so with compassion; on a recent visit back to First Steps I was treated to quite a few vigorous hugs from support staff, despite the expectations of social distancing.
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 
 ## Education
