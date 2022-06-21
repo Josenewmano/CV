@@ -2,7 +2,9 @@
 
 I love working with children. After I started collaborating one of my own, I decided to build other things too.
 
-Teacher to father to fullstack developer.
+Teacher to father to software developer.
+
+I've spent my entire professional career to date in education, six years of which were in Bangkok, and education will always hold a special significance for me. However, the birth of my son led me to reassess, and I came to the realisation that I wanted greater time with and opportunity for my family. Software development and the tech/ startup scene, with its open, people-first culture and exciting prospects for the future, seemed like the perfect choice for the next phase in my professional life.
 
 So far I've been learning by working on stacks based on Ruby and JavaScript. I want to learn even more.
 
@@ -11,9 +13,9 @@ So far I've been learning by working on stacks based on Ruby and JavaScript. I w
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg)** [(Live site here)](https://acebook-zark-muckerberg.herokuapp.com/)| A tongue-in-cheek clone of Facebook | Node, Express, Handlebars, Jest, MongoDB etc. |
-| **[Makers BNB](https://github.com/R552-beep/Makers-BnB)** | An early group project, cloning Airbnb | Ruby, PostgreSQL, ERB, Rspec, Capybara etc.|
+| **[Makers BNB](https://github.com/R552-beep/Makers-BnB)** | An early group project, cloning Airbnb | Ruby, PostgreSQL, ERB, RSpec, Capybara etc.|
 | **[Till](https://github.com/Josenewmano/till_tech_test)** | A till app for tech-phobe baristas | Node, Jest|
-| **[Chitter](https://github.com/Josenewmano/chitter-challenge)** | A clone of Twitter | Ruby, Rspec, ERB|
+| **[Chitter](https://github.com/Josenewmano/chitter-challenge)** | A clone of Twitter | Ruby, RSpec, ERB|
 | **[News Summary](https://github.com/Josenewmano/chitter-challenge)** | A news headlines page, using the Guardian News API | Node, CSS, HTML, Jest Fetch Mock, Jest|
 | **[Blackjack](https://github.com/Josenewmano/multiplayer_blackjack)** | A multiplayer, command line blackjack game - the first project I got really excited about| Ruby|
 
@@ -23,23 +25,33 @@ So far I've been learning by working on stacks based on Ruby and JavaScript. I w
 **Primary Education** (2011 to 2021)  
 _Teacher_
 
-- At schools in London including Saint Joan of Arc RCPS, Nightingale Primary, and Oakdale Juniors
-- At schools in Bangkok including Australian ISB, First Steps International, and St Stephen's International
-- Coordinated the team leading very young children through their first experiences of social interaction at SJA
-- Individually developed and conducted online delivery of lessons for the year group at Nightingale during lockdown
-- Managed and delivered ICT for the whole school at First Steps
-- Pioneered the provision of lucrative extra weekend classes at AISB
-- Endeavoured throughout to get the best for the children
-
+- At schools in London including Saint Joan of Arc RCPS, Nightingale Primary, and Oakdale Juniors, and at schools in Bangkok including Australian ISB, First Steps International, and St Stephen's International
+- _Highlights_
+  - Coordinated the team leading very young children through their first experiences of social interaction after the pandemic at SJA
+  - Individually developed and conducted online delivery of lessons for the year group at Nightingale during lockdown
+  - Managed and delivered ICT for the whole school at First Steps
+  - Pioneered the provision of lucrative extra weekend classes at AISB
+  - Endeavoured throughout to get the best for the children
+- _Skills Developed_
+  - Preparing resources in various formats (images, handwritten, typed, verbal), and for various audiences (students, their families, other members of staff, external visitors) developed my skills in **presentation and communication** - understanding what is the key information in a concept, and how best to communicate this information clearly, as well as interpreting the opinions and understandings of others
+  - The 'plan, teach, assess' cycle developed my skills in **analysis and evaluation** - using all of the evidence available to identify wants and needs, then determine successes and areas for development - an Agile-like methodology
+  - The intense schedule in education developed my skills in **managing time and energy** - prioritising the most urgent and important tasks, whilst maintaining the required levels of energy to engage with others in-person, and be accountable for the outcomes of my work
+  - Being responsible for large groups of students, as well as support staff, developed my skills in **leadership** - demonstrating authority and assurance, and motivating the team under my care
+  - Assimilating knowledge and reviewing content for upcoming learning, as well as frequent reading into literature related to teaching and learning developed my skills in **research and development** - constantly striving to better my understanding of knowledge related to the profession, and to keep abreast of new developments
+  
 **UK Startup Jobs** (2016 to 2019)  
 _Social Media Manager_
 
-- Transformed the brand's social media presence from automated updates, to a human presence with a personality
-- Developed an understanding of working life in the startup/ tech ecosystem, through my own personal experience, from the offerings from employers, and from the point of view of prospective employees
-- Contributed to the founder's successful exit
+- _Highlights_
+  - Transformed the brand's social media presence from automated updates, to a human presence with a personality
+  - Developed an understanding of working life in the startup/ tech ecosystem, through my own personal experience, from the offerings of employers, and     from the point of view of prospective employees
+  - Contributed to the founder's successful exit
+- _Skills Developed_
+   - Writing the content for blogs and social media posts developed my skills in **creativity** - drawing the most relevant and interesting information from a range of sources in order to increase user interaction
+   - Interacting with applicants and startups/ tech companies on social media developed my skills in **customer care and marketing** - identifying needs and expectations, in order to deliver the best possible outcomes for the user and the product alike
 
 
-## Skills
+## Areas of Strength
 
 #### Deciphering
 
@@ -70,13 +82,15 @@ Whether it be walking into an unfamiliar room to teach unknown children, marshal
 ## Education
 
 #### Makers Academy (February 2022 to June 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- A software development bootcamp, teaching industry best-practise to ambitious budding coders
+- Built upon the soft skills gained throughout my career to date:
+  - Pair programming and particularly group projects further developed my skills in **teamwork and communication**
+  - TDD developed my skills in **planning, development and product vision** - developing and delivering my vision of the requirements of the project
+  - The course as a whole developed not only my knowledge of key concepts such as MVC, OOP, and Separation of Concerns, but also **self-directed learning and skill acquistion**
+- Also gained experience with the following technologies:
+  - Ruby, JavaScript, HTML, CSS, Handlebars, Node, ERB, Sinatra, React
+  - RSpec, Jest, Capybara, Cypress
+  - PostgresSQL, MongoDB & Mongoose
 
 #### Teach in Redbridge (2019 to 2020)
 
@@ -88,7 +102,7 @@ Whether it be walking into an unfamiliar room to teach unknown children, marshal
 
 - PGCEi - An education post-graduate course, with a distance-learning model
 - Acing a university post-graduate year, whilst working a full-time job, along with extra part-time work, taught me that the remote model works well for me when necessary 
-- I had to prioritise different commitments at different times, whilst continually considering the welfare and development of the children under my care, and accruing necessary experience and eveidence to present my own learning
+- I had to prioritise different commitments at different times, whilst continually considering the welfare and development of the children under my care, and accruing necessary experience and evidence to present my own learning
 
 #### Stanton School (September 2012)
 
