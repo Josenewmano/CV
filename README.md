@@ -1,6 +1,6 @@
 ## Joseph Newman
 
-I love working with children. After I started collaborating one of my own, I decided to build other things too.
+I love working with children. After I started collaborating on one of my own, I decided to build other things too.
 
 Teacher to father to software developer.
 
