@@ -1,17 +1,13 @@
 ## Joseph Newman
 
-I love working with children. After I started collaborating on one of my own, I decided to build other things too.
-
 Teacher to father to software developer.
 
-I've spent my entire professional career to date in education, six years of which were in Bangkok, and education will always hold a special significance for me. However, the birth of my son led me to reassess, and I came to the realisation that I wanted greater time with and opportunity for my family. Software development and the tech/ startup scene, with its open, people-first culture and exciting prospects for the future, seemed like the perfect choice for the next phase in my professional life.
-
-So far I've been learning by working on stacks based on Ruby and JavaScript. I want to learn even more.
+I’ve flirted with tech throughout my career, drawn to its power to engage, connect and innovate. The birth of my son led me to reassess, and I came to the realisation that, while education will always hold a special significance,  I desired more for my family, than afforded by my teaching role, and that I needed a new challenge with some other work that I found meaningful. Software development and the tech/ startup scene, with its open, people-first culture and exciting prospects for the future, seemed like the perfect choice. Having completed a **[Makers](https://github.com/makersacademy)** bootcamp, I’m ready for the next step.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
+| Name                                              | Description       | Tech/tools        |
+| ------------------------------------------------- | ----------------- | ----------------- |
 | **[Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg)** [(Live site here)](https://acebook-zark-muckerberg.herokuapp.com/)| A tongue-in-cheek clone of Facebook | Node, Express, Handlebars, Jest, MongoDB etc. |
 | **[Makers BNB](https://github.com/R552-beep/Makers-BnB)** | An early group project, cloning Airbnb | Ruby, PostgreSQL, ERB, RSpec, Capybara etc.|
 | **[Till](https://github.com/Josenewmano/till_tech_test)** | A till app for tech-phobe baristas | Node, Jest|
@@ -21,34 +17,23 @@ So far I've been learning by working on stacks based on Ruby and JavaScript. I w
 
 
 ## Work Experience
-
-**Primary Education** (2011 to 2021)  
-_Teacher_
-
-- At schools in London including Saint Joan of Arc RCPS, Nightingale Primary, and Oakdale Juniors, and at schools in Bangkok including Australian ISB, First Steps International, and St Stephen's International
-- _Highlights_
-  - Coordinated the team leading very young children through their first experiences of social interaction after the pandemic at SJA
-  - Individually developed and conducted online delivery of lessons for the year group at Nightingale during lockdown
-  - Managed and delivered ICT for the whole school at First Steps
-  - Pioneered the provision of lucrative extra weekend classes at AISB
-  - Endeavoured throughout to get the best for the children
-- _Skills Developed_
-  - Preparing resources in various formats (images, handwritten, typed, verbal), and for various audiences (students, their families, other members of staff, external visitors) developed my skills in **presentation and communication** - understanding what is the key information in a concept, and how best to communicate this information clearly, as well as interpreting the opinions and understandings of others
-  - The 'plan, teach, assess' cycle developed my skills in **analysis and evaluation** - using all of the evidence available to identify wants and needs, then determine successes and areas for development - an Agile-like methodology
-  - The intense schedule in education developed my skills in **managing time and energy** - prioritising the most urgent and important tasks, whilst maintaining the required levels of energy to engage with others in-person, and be accountable for the outcomes of my work
-  - Being responsible for large groups of students, as well as support staff, developed my skills in **leadership** - demonstrating authority and assurance, and motivating the team under my care
-  - Assimilating knowledge and reviewing content for upcoming learning, as well as frequent reading into literature related to teaching and learning developed my skills in **research and development** - constantly striving to better my understanding of knowledge related to the profession, and to keep abreast of new developments
   
-**UK Startup Jobs** (2016 to 2019)  
-_Social Media Manager_
+### Various schools
+_Teacher_ (2011 to 2021)      (London: **[SJA](https://www.st-joanofarc.islington.sch.uk/)**, **[Nightingale](https://www.nightingale.redbridge.sch.uk/)**, **[Oakdale](https://www.oakdalejuniors.co.uk/)** ~~ Bangkok: **[AISB](https://www.australianisb.ac.th/)**, **[First Steps](https://www.thefirststeps.ac.th/)**, **[St Stephen's](https://www.sis.edu/)**, **[Wattana](https://www.wattana.ac.th/)**)
+ 
+- **Presentation and communication** - Communicated information clearly in a number of formats, and understood others - students, families, colleagues, and outside agencies. Allowed me to succinctly deliver 1000s of learning episodes, as well as being a frequent confidant on communication for the business manager at First Steps.
+- **Analysis and evaluation** - Used all evidence available to identify requirements (of students and curriculum), and then determine successes and areas for development - the  ‘plan, teach, assess’ cycle. Allowed me to help countless children, practice working in an Agile-like environment, and be chosen as the IT Lead at First Steps.
+- **Managing time and energy** - Prioritised the most urgent, important tasks, whilst maintaining the energy to engage with students and staff, and be accountable for learning outcomes. I achieved two post-graduate qualifications whilst teaching full-time, and also working part-time, including on pioneering lucrative weekend classes at AISB.
+- **Leadership** - Demonstrated authority and assurance, and motivated the students and staff, endeavouring throughout to get the best for them. Given a year group leadership in my first year as a class teacher at Wattana.
+- **Thirst for knowledge** - Constantly strived to develop my knowledge of curriculum content, and the profession. Recognised as an academic authority throughout my career - “If you don’t know, ask Joe”.
+- **Adaptability** - Modified the curriculum based on changing demands, both of the class, and externally. Recognised during the pandemic at Nightingale, when I was asked to deliver the online offering, with little notice or direction.
+  
+### **[UK Startup Jobs](https://www.ukstartupjobs.com/)** 
+_Social Media Manager_ (2016 to 2019)  
 
-- _Highlights_
-  - Transformed the brand's social media presence from automated updates, to a human presence with a personality
-  - Developed an understanding of working life in the startup/ tech ecosystem, through my own personal experience, from the offerings of employers, and     from the point of view of prospective employees
-  - Contributed to the founder's successful exit
-- _Skills Developed_
-   - Writing the content for blogs and social media posts developed my skills in **creativity** - drawing the most relevant and interesting information from a range of sources in order to increase user interaction
-   - Interacting with applicants and startups/ tech companies on social media developed my skills in **customer care and marketing** - identifying needs and expectations, in order to deliver the best possible outcomes for the user and the product alike
+- **Creativity** - Elicited the most relevant information from a range of sources, to write engaging posts and blog articles. Led to significant growth in followers, particularly on Twitter, contributing to the founder's successful exit.
+- **Customer care and marketing** - Identified user and product need. Allowed me to deliver the best possible outcomes for all, whilst transforming the model for user interaction from an automated system.
+
 
 
 ## Areas of Strength
@@ -81,42 +66,27 @@ Whether it be walking into an unfamiliar room to teach unknown children, marshal
 
 ## Education
 
-#### Makers Academy (February 2022 to June 2022)
-- A software development bootcamp, teaching industry best-practices to ambitious budding coders
-- Built upon the soft skills gained throughout my career to date:
-  - Pair programming and particularly group projects further developed my skills in **teamwork and communication**
-  - TDD developed my skills in **planning, development and product vision** - developing and delivering my vision of the requirements of the project
-  - The course as a whole developed not only my knowledge of key concepts such as MVC, OOP, Agile, and Separation of Concerns, but also **self-directed learning and skill acquisition**
-- Also gained experience with the following technologies:
-  - Ruby, JavaScript, HTML, CSS, Handlebars, Node, ERB, Sinatra, React
-  - RSpec, Jest, Capybara, Cypress
-  - PostgreSQL, MongoDB & Mongoose
+### **[Makers Academy](https://makers.tech/)**
+_Software development bootcamp_ (February 2022 to June 2022)
+- **Teamwork and communication** - Excelled in pair programming, stand-ups, retros, and regular team check-ins. Managed shifting team dynamics throughout the course, and skills were recognised when I was chosen to lead a cohort retro mid-way through the course.
+- **Planning, development and product vision** - Used TDD and modelling to develop and deliver vision according to the requirements of the project. Delivered projects listed above.
+- **Self-directed learning and skill acquisition** - Throughout the course, which was run on a distance-learning model. Allowed me to develop knowledge of key concepts and industry best-practices (e.g. MVC, OOP, Separation of Concerns, Agile) and gain experience with tech such as: _Ruby, JavaScript, HTML, CSS, Handlebars, Node, ERB, Sinatra, React, RSpec, Jest, Capybara, Cypress, PostgreSQL, MongoDB & Mongoose_.
 
-#### Teach in Redbridge (2019 to 2020)
 
-- PGCE - An education post-graduate course
-- Learning lots of competing and inter-connected theories of teaching and learning
-- I had practice in breaking complicated topics down into easy-to-understand steps, frequent testing to prevent misunderstandings, and adapting for individual needs
+### **[Teach in Redbridge](https://fipc.ac.uk/teach-in-redbridge/)**
+_Schools Direct ITT_ (2019 to 2020)
+- **Composure** - Learned the particularities of teaching in the UK: sophisticated differentiation and assessment, differing demands of students and their families, and fewer resources, in an intense year of work and study. Allowed me to develop my skills in maintaining calm and assurance under pressure.
 
-#### Nottingham University (2014 to 2015)
 
-- PGCEi - An education post-graduate course, with a distance-learning model
-- Acing a university post-graduate year, whilst working a full-time job, along with extra part-time work, taught me that the remote model works well for me when necessary 
-- I had to prioritise different commitments at different times, whilst continually considering the welfare and development of the children under my care, and accruing necessary experience and evidence to present my own learning
+### **[Nottingham University](https://www.nottingham.ac.uk/education/study/pgcei/index.aspx)**
+_PGCEi_ (2014 to 2015)
+- **Self-motivation** - Elected to take on a postgraduate qualification online, to further my understanding of my profession. Passed with distinction, enabled better outcomes for the children under my care at that time and afterwards, and taught myself that the remote model works for me when necessary.
 
-#### Stanton School (September 2012)
 
-- CELTA - Teaching English as a Foreign Language
-- I learnt to recognise the challenges and perks of learning new languages
-- I already knew how the grammar worked, but I realised that learning the technical terms made it much easier to explain how the grammar worked
-
-#### Loughborough University (2007 to 2010)
-
-- Chemistry with Sport Science BSc
-- My university experience taught me the essential skills of adulthood
-- I've kept a passion for sports. I'm fascinated by the sciences, and chemistry certainly helped me develop my analytical skills
-- I helped raise 1000s of pounds for charity on Rag Raids, and discovered a love of the potato dog - Google it
-
+### **[Loughborough University](https://www.lboro.ac.uk/departments/chemistry)**
+_Chemistry with Sport Science BSc_ (2007 to 2010)
+- **Problem-solving** - Completed 100s of hours of labs across physiology, biomechanics, organic and inorganic chemistry, amongst others, allowing me to develop skills in scientific, logical analysis.
+- **Selflessness** - Gave up my time to go on regular charity fundraising trips (Rag Raids), helping to raise £1000s for various charities.
 
 
 ## Hobbies
