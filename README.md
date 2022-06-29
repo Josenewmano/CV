@@ -22,7 +22,7 @@ I’ve flirted with tech throughout my career, drawn to its power to engage, con
 ## Work Experience
   
 ### Various schools
-_Teacher_ (2011 to 2021)      (London: **[SJA](https://www.st-joanofarc.islington.sch.uk/)**, **[Nightingale](https://www.nightingale.redbridge.sch.uk/)**, **[Oakdale](https://www.oakdalejuniors.co.uk/)** ~~ Bangkok: **[AISB](https://www.australianisb.ac.th/)**, **[First Steps](https://www.thefirststeps.ac.th/)**, **[St Stephen's](https://www.sis.edu/)**, **[Wattana](https://www.wattana.ac.th/)**)
+_Teacher_ (2011 to 2021)      (London: **[SJA](https://www.st-joanofarc.islington.sch.uk/)**, **[Nightingale](https://www.nightingale.redbridge.sch.uk/)**, **[Oakdale](https://www.oakdalejuniors.co.uk/)**. Bangkok: **[AISB](https://www.australianisb.ac.th/)**, **[First Steps](https://www.thefirststeps.ac.th/)**, **[St Stephen's](https://www.sis.edu/)**, **[Wattana](https://www.wattana.ac.th/)**)
  
 - **Presentation and communication** - Communicated information clearly in a number of formats, and understood others - students, families, colleagues, and outside agencies. Allowed me to succinctly deliver 1000s of learning episodes, as well as being a frequent confidant on communication for the business manager at First Steps.
 - **Analysis and evaluation** - Used all evidence available to identify requirements (of students and curriculum), and then determine successes and areas for development - the  ‘plan, teach, assess’ cycle. Allowed me to help countless children, practice working in an Agile-like environment, and be chosen as the IT Lead at First Steps.
