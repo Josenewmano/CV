@@ -1,3 +1,7 @@
+|&nbsp;&nbsp;&nbsp;&nbsp;**[About Joseph](https://github.com/Josenewmano/CV/blob/master/README.md#joseph-newman)** &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Projects](https://github.com/Josenewmano/CV/blob/master/README.md#projects)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Work Experience](https://github.com/Josenewmano/CV/blob/master/README.md#work-experience)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Areas of Strength](https://github.com/Josenewmano/CV/blob/master/README.md#areas-of-strength)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Education](https://github.com/Josenewmano/CV/blob/master/README.md#education)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Hobbies](https://github.com/Josenewmano/CV/blob/master/README.md#hobbies)**&nbsp;&nbsp;&nbsp;&nbsp;|
+| - | - | - | - | - | - |
+   
+
 ## Joseph Newman
 
 Teacher to father to software developer.
@@ -6,8 +10,8 @@ I’ve flirted with tech throughout my career, drawn to its power to engage, con
 
 ## Projects
 
-| Name                                              | Description       | Tech/tools        |
-| ------------------------------------------------- | ----------------- | ----------------- |
+| Name | Description | Tech/tools |
+| - | - | - |
 | **[Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg)** [(Live site here)](https://acebook-zark-muckerberg.herokuapp.com/)| A tongue-in-cheek clone of Facebook | Node, Express, Handlebars, Jest, MongoDB etc. |
 | **[Makers BNB](https://github.com/R552-beep/Makers-BnB)** | An early group project, cloning Airbnb | Ruby, PostgreSQL, ERB, RSpec, Capybara etc.|
 | **[Till](https://github.com/Josenewmano/till_tech_test)** | A till app for tech-phobe baristas | Node, Jest|
@@ -33,35 +37,40 @@ _Social Media Manager_ (2016 to 2019)
 
 - **Creativity** - Elicited the most relevant information from a range of sources, to write engaging posts and blog articles. Led to significant growth in followers, particularly on Twitter, contributing to the founder's successful exit.
 - **Customer care and marketing** - Identified user and product need. Allowed me to deliver the best possible outcomes for all, whilst transforming the model for user interaction from an automated system.
+   
 
+|&nbsp;&nbsp;&nbsp;&nbsp;**[About Joseph](https://github.com/Josenewmano/CV/blob/master/README.md#joseph-newman)** &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Projects](https://github.com/Josenewmano/CV/blob/master/README.md#projects)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Work Experience](https://github.com/Josenewmano/CV/blob/master/README.md#work-experience)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Areas of Strength](https://github.com/Josenewmano/CV/blob/master/README.md#areas-of-strength)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Education](https://github.com/Josenewmano/CV/blob/master/README.md#education)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Hobbies](https://github.com/Josenewmano/CV/blob/master/README.md#hobbies)**&nbsp;&nbsp;&nbsp;&nbsp;|
+| - | - | - | - | - | - |
 
-
+   
+      
 ## Areas of Strength
 
-#### Deciphering
+### Deciphering
 
-Since childhood, my job has been education: my own education; that of others; even education about education. 
+Since childhood, my job has been education: my own education; that of others; even education about education. I love of **deconstructing** concepts, **assimilating** them, and then **discovering** more. I've used this skill to:
 
-From my lifelong side hustle as a geographical/ historical/ cultural research nerd, through my career as a teacher juggling my own professional development, the developing minds of the children in my care, and the requirements of multiple jobs, through to my newest and greatest challenge of raising my infant son whilst changing careers, I have never ceased my love of deconstructing concepts, assimilating them, and then discovering more. I have completed teacher training three times over, in three vastly different sets of circumstances, which has allowed me the opportunity to develop the young minds in many differing professional settings. I've also realised that a new professional challenge was the right choice for myself and my family. This has resulted in the metamorphosis of hundreds of content children and their families, and most recently, the inception of an eager, young (ish) developer.
+- Guide myself through my **career as a teacher** simulataneously considering the requirements of **multiple jobs**. This has allowed me to help 1000s of children from a wide variety of backgrounds.
+- Complete **teacher training three times** over, in three vastly different sets of circumstances. With each challenge, new opportunities were uncovered.
+- Undertake the necessary training to **change my career** whilst raising my infant son. I've transformed my professional prospects, the right choice for myself and my family.
 
-#### Discerning
+### Discerning
 
-Throughout my professional career I've considered the children, their families, and my colleagues, to leverage the best possible results.
+Throughout my professional career I've considered the children, their families, and my colleagues, to leverage the best possible results. In each new, educational setting, and with each new class, I've used my **empathy**, **intuition**, **inter-personal skills** and previous experience to learn about and resolve the changing requirements of each role. I've used this skill to:
 
-Regardless of their age, it takes some effort to fully understand a child, and this is a ceaseless effort, as children change constantly: as they grow; depending on the context; and as their moods change. This becomes all the more challenging when you consider that:
+- Consider all under my care in classes of up to **40 children**. Using this information to plan and deliver the most meaningful lessons for the group.
+- Liaise with a **myriad of families** with differing expectations. I was able to give advice and enact change for the benefit of their children.
+- Monitor classroom interactions in **multiple languages**. This allowed me make adaptations to the lesson being delivered, and inform assessment and future planning.
+- Recognise **various, volatile expectations** of senior members of staff and outside agencies. I used this knowledge to evidence and deliver practice which satisfied colleagues, whilst considering those most important - the children.
 
-- classes in some of my roles in Bangkok were anywhere up to 40 children
-- families (especially highly-professional international ones) have myriad different expectations
-- interactions between the children, and the classroom team, could be happening in several possible unfamiliar languages
-- senior members of staff and outside authorities like OFSTED have various, volatile expectations
-                   
-In each new, educational setting, and with each new class, I've used my empathy, intuition, inter-personal skills and previous experience to learn about and resolve the changing requirements of the role, and satisfy the wants and needs of all of the members of the school community.
+### Directing
 
-#### Directing
+As a member of the teaching profession, I had the pleasure of **leading** those under my care, **motivating** and **advising** the staff I was working with, whilst **guiding** and **supporting** the children under my care to become more complete versions of themselves. I've used this skill to:
 
-As a member of the teaching profession, I had the pleasure of guiding the children under my care to become more complete versions of themselves.
-
-Whether it be walking into an unfamiliar room to teach unknown children, marshalling experienced senior staff, or even (more topically) having extra children and staff assigned to your care with little preparation time, I've had numerous opportunities to develop my ability to lead under pressure. At Nightingale, whilst completing my NQT year, I had the added challenges of a fluid year group team, due to changing need across the school, and a mentoring role for a less-experienced teacher in the year group team, yet the head of year trusted me with extra responsibilities such as leading the lockdown online offering, making key decisions on the ongoing interpretation of the curriculum offering, and delegating to and monitoring the other members of the year group team. Whilst I am confident conducting leadership duties, I am still able to do so with compassion; on a recent visit back to First Steps I was treated to quite a few vigorous hugs from support staff, despite the expectations of social distancing.
+- **Engender respect** - This allowed me to perform meaningful work when walking into an unfamiliar room to teach unknown children, and delegate work to colleagues to benefit students.
+- **Adapt to changing teams** - This meant I was able to utilise resources efficiently when having extra children and staff assigned to my care, often mid-lesson, or adapt longer-term planning as year group staff structure is reorganised, sometimes in the middle of a week.
+- **Demonstrate poise** - I've used this skill to take on mentoring roles for less-experienced teachers, and be trusted with decision-making on the curriculum offering
+- **Lead with compassion** - This has meant that I have maintained good relationships with colleagues, often beyond our time working together.
 
 
 ## Education
