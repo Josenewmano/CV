@@ -38,10 +38,9 @@ _Social Media Manager_ (2016 to 2019)
 - **Customer care and marketing** - Identified user and product need. Allowed me to deliver the best possible outcomes for all, whilst transforming the model for user interaction from an automated system.
    
 
-|&nbsp;&nbsp;&nbsp;**[About Joseph](https://github.com/Josenewmano/CV#joseph-newman)** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Projects](https://github.com/Josenewmano/CV#projects)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[Work Experience](https://github.com/Josenewmano/CV#work-experience)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[Areas of Strength](https://github.com/Josenewmano/CV#areas-of-strength)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Education](https://github.com/Josenewmano/CV#education)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Hobbies](https://github.com/Josenewmano/CV#hobbies)**&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;**[About Joseph](https://github.com/Josenewmano/CV#joseph-newman)**&nbsp;|&nbsp;&nbsp;**[Projects](https://github.com/Josenewmano/CV#projects)**&nbsp;&nbsp;|&nbsp;**[Work Experience](https://github.com/Josenewmano/CV#work-experience)**&nbsp;|&nbsp;**[Areas of Strength](https://github.com/Josenewmano/CV#areas-of-strength)**&nbsp;|&nbsp;&nbsp;**[Education](https://github.com/Josenewmano/CV#education)**&nbsp;&nbsp;|&nbsp;&nbsp;**[Hobbies](https://github.com/Josenewmano/CV#hobbies)**&nbsp;&nbsp;|
 | - | - | - | - | - | - |
 
-   
       
 ## Areas of Strength
 
