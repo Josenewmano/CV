@@ -1,7 +1,6 @@
-|&nbsp;&nbsp;&nbsp;&nbsp;**[About Joseph](https://github.com/Josenewmano/CV/blob/master/README.md#joseph-newman)** &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Projects](https://github.com/Josenewmano/CV/blob/master/README.md#projects)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Work Experience](https://github.com/Josenewmano/CV/blob/master/README.md#work-experience)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Areas of Strength](https://github.com/Josenewmano/CV/blob/master/README.md#areas-of-strength)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Education](https://github.com/Josenewmano/CV/blob/master/README.md#education)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Hobbies](https://github.com/Josenewmano/CV/blob/master/README.md#hobbies)**&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;**[About Joseph](https://github.com/Josenewmano/CV#joseph-newman)** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Projects](https://github.com/Josenewmano/CV#projects)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[Work Experience](https://github.com/Josenewmano/CV#work-experience)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[Areas of Strength](https://github.com/Josenewmano/CV#areas-of-strength)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Education](https://github.com/Josenewmano/CV#education)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Hobbies](https://github.com/Josenewmano/CV#hobbies)**&nbsp;&nbsp;&nbsp;&nbsp;|
 | - | - | - | - | - | - |
    
-
 ## Joseph Newman
 
 Teacher to father to software developer.
@@ -39,7 +38,7 @@ _Social Media Manager_ (2016 to 2019)
 - **Customer care and marketing** - Identified user and product need. Allowed me to deliver the best possible outcomes for all, whilst transforming the model for user interaction from an automated system.
    
 
-|&nbsp;&nbsp;&nbsp;&nbsp;**[About Joseph](https://github.com/Josenewmano/CV/blob/master/README.md#joseph-newman)** &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Projects](https://github.com/Josenewmano/CV/blob/master/README.md#projects)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Work Experience](https://github.com/Josenewmano/CV/blob/master/README.md#work-experience)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Areas of Strength](https://github.com/Josenewmano/CV/blob/master/README.md#areas-of-strength)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Education](https://github.com/Josenewmano/CV/blob/master/README.md#education)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Hobbies](https://github.com/Josenewmano/CV/blob/master/README.md#hobbies)**&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;**[About Joseph](https://github.com/Josenewmano/CV#joseph-newman)** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Projects](https://github.com/Josenewmano/CV#projects)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[Work Experience](https://github.com/Josenewmano/CV#work-experience)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**[Areas of Strength](https://github.com/Josenewmano/CV#areas-of-strength)**&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Education](https://github.com/Josenewmano/CV#education)**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[Hobbies](https://github.com/Josenewmano/CV#hobbies)**&nbsp;&nbsp;&nbsp;&nbsp;|
 | - | - | - | - | - | - |
 
    
@@ -97,6 +96,9 @@ _Chemistry with Sport Science BSc_ (2007 to 2010)
 - **Problem-solving** - Completed 100s of hours of labs across physiology, biomechanics, organic and inorganic chemistry, amongst others, allowing me to develop skills in scientific, logical analysis.
 - **Selflessness** - Gave up my time to go on regular charity fundraising trips (Rag Raids), helping to raise £1000s for various charities.
 
+### Stanton School
+CELTA - Teaching English as a Foreign Language (September 2012)
+- **Technical precision** - Practised discussing grammatical concepts (which I intuitively already understood) made me realise the merits of technical precision.
 
 ## Hobbies
 
