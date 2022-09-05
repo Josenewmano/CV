@@ -5,7 +5,7 @@
 
 Teacher to father to software developer.
 
-I’ve flirted with tech throughout my career, drawn to its power to engage, connect and innovate. The birth of my son led me to reassess, and I came to the realisation that, while education will always hold a special significance,  I desired more for my family, than afforded by my teaching role, and that I needed a new challenge with some other work that I found meaningful. Software development and the tech/ startup scene, with its open, people-first culture and exciting prospects for the future, seemed like the perfect choice. Having completed a **[Makers](https://github.com/makersacademy)** bootcamp, I’m ready for the next step.
+I’ve flirted with tech throughout my career, drawn to its power to engage, connect and innovate. The birth of my son led me to reassess, and I came to the realisation that, while education will always hold a special significance,  I desired more for my family, than afforded by my teaching role, and that I needed a new challenge with some other work that I found meaningful. Software development and the tech/ startup scene, with its open, people-first culture and exciting prospects for the future, seemed like the perfect choice. Having completed a **[Makers](https://github.com/makersacademy)** bootcamp, and landed my first role at **[Capgemini](https://www.capgemini.com/)** as a Backend Java Engineer, I'm looking to keep growing.
 
 ## Projects
 
@@ -17,6 +17,7 @@ I’ve flirted with tech throughout my career, drawn to its power to engage, con
 | **[Chitter](https://github.com/Josenewmano/chitter-challenge)** | A clone of Twitter | Ruby, RSpec, ERB|
 | **[News Summary](https://github.com/Josenewmano/chitter-challenge)** | A news headlines page, using the Guardian News API | Node, CSS, HTML, Jest Fetch Mock, Jest|
 | **[Blackjack](https://github.com/Josenewmano/multiplayer_blackjack)** | A multiplayer, command line blackjack game - the first project I got really excited about| Ruby|
+| **[Aceplay](https://github.com/dhopz/aceplay)** | A social playlist website - my first experience with Spring Boot | Java, PostgreSQL |
 
 
 ## Work Experience
