@@ -21,6 +21,13 @@ I’ve flirted with tech throughout my career, drawn to its power to engage, con
 
 
 ## Work Experience
+
+### **[Capgemini](https://www.capgemini.com/)** 
+_Backend Java Engineer_ (August 2022 to Present) (Employed by **[Makers](https://makers.tech/)**, on an **[HMRC](https://www.gov.uk/government/organisations/hm-revenue-customs)** project)   
+- **Containerised development**  - Gaining an understanding of testing, development, and DevOps for containerised applications, particularly relating to the middleware - tracking issues, fixing bugs relating to version control, deploying APIs using automation software, and helping to orchestrate containerised systems. Frequently commended on my insight by colleagues.
+- **Corporate nous**  - Practising the procedures, conventions, and idiosyncrasies of the workflow of a large company with an intricate struture and several means of communication. Contributed to streamlining the onboarding process for future staff.
+- **Self-motivation** - Continuing my journey as a software engineer in an environment of minimal supervision, with the use of a vast, dispersed pool of resource materials. Often received praise from senior staff for my application to the task.
+
   
 ### Various schools
 _Teacher_ (2011 to 2021)      (London: **[SJA](https://www.st-joanofarc.islington.sch.uk/)**, **[Nightingale](https://www.nightingale.redbridge.sch.uk/)**, **[Oakdale](https://www.oakdalejuniors.co.uk/)**. Bangkok: **[AISB](https://www.australianisb.ac.th/)**, **[First Steps](https://www.thefirststeps.ac.th/)**, **[St Stephen's](https://www.sis.edu/)**, **[Wattana](https://www.wattana.ac.th/)**)
